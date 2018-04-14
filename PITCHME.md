@@ -76,3 +76,10 @@ NPUとはAIの計算における電力効率を50倍、パフォーマンスを2
 HuaweiMate10Proで撮った写真
 ---
 <img src="https://pbs.twimg.com/media/DYFNYnCVwAAsHm7.jpg" height="600px">
+---
+<img src="https://photos.app.goo.gl/gXQeCvUEXwUloFyY2" height="600px">
+---
+<img src="https://photos.app.goo.gl/eqLCqY0j23we4Tli2" height="600px">
+---
+自撮りも自動で綺麗になる！
+つまり、かっこいい！！
