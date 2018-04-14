@@ -56,4 +56,23 @@ Huawei Mateシリーズの中では最上位の機種
 ---?image=huawei_mate10pro.jpg
 ## Huawei Mate 10 Proの特徴
 ---?image=huawei_mate10pro.jpg
-プロセッサがすごい
+### 1.超ハイスペック
+---
+NPU (Neural-Network Processing Unit) が使用されているKirin 970プロセッサというものを搭載している。<br>
+NPUとはAIの計算における電力効率を50倍、パフォーマンスを25倍に向上させる飛躍的な技術だそうです。<br>
+メモリが6GB!<br>
+ストレージが128GB 
+---
+### 2.大容量バッテリー
+---
+- 容量は4000mAh
+- 約20分の充電で丸1日使える急速充電。
+---
+### 3.カメラの性能
+---
+-- Leicaダブルレンズカメラを搭載
+-- リアルタイム被写体認識で自動的に露出、シャッター速度、露出などなどを変えてくれる
+---
+HuaweiMate10Proで撮った写真
+---
+![a](https://pbs.twimg.com/media/DYFNYnCVwAAsHm7.jpg)
