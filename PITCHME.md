@@ -6,3 +6,5 @@
 - Webと機械学習をよくやってる。 |
 - Ruby Python JavaScriptをよく使う。 |
 - VimとLinuxカッコイイ〜 |
+---
+詳しくはTwitter!!
