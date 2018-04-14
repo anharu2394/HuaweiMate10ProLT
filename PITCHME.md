@@ -7,4 +7,5 @@
 - Ruby Python JavaScriptをよく使う。 |
 - VimとLinuxカッコイイ〜 |
 ---
-詳しくはTwitter!!
+### 詳しくはTwitterで！！
+@haru_programing です。
