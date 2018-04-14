@@ -79,7 +79,6 @@ HuaweiMate10Proで撮った写真
 ---
 <img src="https://photos.app.goo.gl/gXQeCvUEXwUloFyY2" height="600px">
 ---
-<img src="https://photos.app.goo.gl/eqLCqY0j23we4Tli2" height="600px">
+<img src="https://lh3.googleusercontent.com/F6C6LyU8vqQvhChF25DZsMCbw9NRdowVU_fAWTaBdYMhZZ6NMf1qmfqfrwEbVYJCGZG1c5DwNMOMMzKKtAcb8TzCmZHhXA11YFTdMPQQyKVYK8kP1Nf8DkQ07d_4FUy6pIgqHnaK4wghosbJyEv8fgEs6Pcqn3x5Oa-hOQiGUso7A6wF7kDnQ3LKdG4jMpgXDqbDRKBUsEiUgV3X4ztDn2XUb6EtMbm9vKcteLxFfpcGvqmg00kf6xSLwDWvM1p7_67KEO8rg8BF3sRLd6M5fZ4XuGAKWRWcwgLepWM7AzO-pBMh9fPI0I8CxrPLChNjGXyYp7D7e4r_80Qk1JPvIjtuffFxrs6gGbTJLWmFLZ7bBKHlf4LyfIDm1rnRLTEQuB3R2irqLvxwYrwuA7xVa31vD_B6huh2W05-7MgOuRLiG0KvrIyroaFm1Bv5yGCNKp93Ikeny-xxPT6OuZdbFWwWyuAYdIeK2cM5cp--O5PLSQb1ANwneEAmAen6d8GnJyzW3n_HVvXYvbRScbBWvYcq01yCHkG48EqOIUeS2fG-uGnY9hewOFY3sc9usM6ZuEZNFOLYFVbxW6rCZG7UkFX0mlqHcHMl3j3d_Oqtcfm4SRNQhNLNyDs-PX-44lUA-Pqx7GnBpnFKM0t8HI7xQStEnr7YWFWe=w1038-h1384-no" height="600px">
 ---
 自撮りも自動で綺麗になる！
-つまり、かっこいい！！
