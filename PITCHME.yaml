@@ -1,3 +1,4 @@
 theme: black
 footnote: "<a style='text-decoration:none; color: white;font-size:30px;'>Twitter:@haru_programing</a>"
 theme-override: PITCHME.css
+background: huawei_mate10pro.jpg
