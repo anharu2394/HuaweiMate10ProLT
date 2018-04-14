@@ -75,4 +75,4 @@ NPUとはAIの計算における電力効率を50倍、パフォーマンスを2
 ---
 HuaweiMate10Proで撮った写真
 ---
-![a](https://pbs.twimg.com/media/DYFNYnCVwAAsHm7.jpg　=x1000)
+<img src="https://pbs.twimg.com/media/DYFNYnCVwAAsHm7.jpg" width="1000px">
