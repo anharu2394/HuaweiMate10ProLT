@@ -3,6 +3,6 @@
 ## まず、自己紹介
 ---
 ## あんはるです。
--Webと機械学習をよくやってる。|
--Ruby Python JavaScriptをよく使う。|
--VimとLinuxカッコイイ〜|
+- Webと機械学習をよくやってる。 |
+- Ruby Python JavaScriptをよく使う。 |
+- VimとLinuxカッコイイ〜 |
