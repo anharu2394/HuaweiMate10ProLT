@@ -1,4 +1,6 @@
 ## Huawei Mate 10 Proの魅力！
+Note:
+Huawei Mate 10 Proの魅力！
 ---
 ## まず、自己紹介
 ---
